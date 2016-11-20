@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
