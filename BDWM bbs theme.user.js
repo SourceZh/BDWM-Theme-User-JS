@@ -21,7 +21,7 @@
     			"/v2/uploads/logo_qGZe5Y.png", // 欢迎新同学
     			"/v2/uploads/logo_zrw8cY.gif" // 祖国生快(67)
     		];
-    if ($("#logo a img").attr()!=src[0] && $("#logo a img").attr()!="/v2/uploads/logo_ibfb2M.png"){
+    if ($("#logo a img").attr("src")!=src[0] && $("#logo a img").attr("src")!="/v2/uploads/logo_ibfb2M.png"){
         alert("There is a new theme, please update the script file!");
     }
     var num = Math.floor(Math.random()*2);
