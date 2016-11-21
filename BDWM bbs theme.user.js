@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BDWM bbs theme
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
 // @version      0.5
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
@@ -21,6 +21,6 @@
     			"/v2/uploads/logo_qGZe5Y.png", // 欢迎新同学
     			"/v2/uploads/logo_zrw8cY.gif" // 祖国生快(67)
     		];
-    var num = Math.floor(Math.random()*7);
+    var num = Math.floor(Math.random()*src.length);
     $("#logo a img").attr("src", src[num]);
 })();
