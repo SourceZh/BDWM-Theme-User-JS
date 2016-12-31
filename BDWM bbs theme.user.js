@@ -25,7 +25,7 @@
     if ($("#logo a img").attr("src")!=src[0] && $("#logo a img").attr("src")!="/v2/uploads/logo_ibfb2M.png"){
         alert("There is a new theme, please update the script file!");
     }else{
-        var num = Math.floor(Math.random()*2);
+        var num = Math.floor(Math.random()*3);
         $("#logo a img").attr("src", src[num]);
     }
 })();
