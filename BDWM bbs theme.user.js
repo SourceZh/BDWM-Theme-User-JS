@@ -13,8 +13,9 @@
     'use strict';
 
     // Your code here...
-    var src = [ "/v2/uploads/logo_OK8m2o.gif", // 2017.02.12 15的月亮16圆
+    var src = [ "/v2/uploads/logo_TOIvA1.gif", //2017.05.05 ... 
                 "/v2/uploads/logo_tgfeWm.gif", // 摇晃的狐狸
+                "/v2/uploads/logo_OK8m2o.gif", // 2017.02.12 15的月亮16圆
                 "/v2/uploads/logo_s9yX2c.gif", // 2017.01.20 鞭炮声里迎新年
                 "/v2/uploads/logo_Tn8pTJ.gif", // 2016.11.20 打嗝的雪人
                 "/v2/uploads/logo_89AF6t.gif", // 2016.31 2017新年快乐
