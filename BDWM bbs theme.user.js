@@ -18,7 +18,7 @@
                 "/v2/uploads/logo_OK8m2o.gif", // 2017.02.12 15的月亮16圆
                 "/v2/uploads/logo_s9yX2c.gif", // 2017.01.20 鞭炮声里迎新年
                 "/v2/uploads/logo_Tn8pTJ.gif", // 2016.11.20 打嗝的雪人
-                "/v2/uploads/logo_89AF6t.gif", // 2016.31 2017新年快乐
+                "/v2/uploads/logo_89AF6t.gif", // 2016.11.31 2017新年快乐
                 "/v2/uploads/logo_qmOATc.gif", // 2016.11.09 拒绝狗粮，从我做起
     			"/v2/uploads/logo_qFiW2O.gif", // 翻滚吧，月饼君
     			"/v2/images/home/logo-rio2016.gif", // 为中国代表团加油
