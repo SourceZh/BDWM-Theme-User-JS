@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
-// @version      0.65
+// @version      0.65.1
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
@@ -27,7 +27,14 @@
     			"/v2/uploads/logo_qGZe5Y.png", // 欢迎新同学
     			"/v2/uploads/logo_zrw8cY.gif" // 祖国生快(67)
     		];
-    if ($("#logo a img").attr("src")!=src[0] && $("#logo a img").attr("src")!="/v2/uploads/logo_ibfb2M.png"){
+    var ischange = true;
+    var curimage = $("#logo a img").attr("src");
+    for (var i = src.length - 1; i >= 0; i--) {
+        if(src[i] == curimage){
+            ischange = false;
+        }
+    }
+    if (ischange && $("#logo a img").attr("src")!="/v2/uploads/logo_ibfb2M.png"){
         alert("There is a new theme, please update the script file!");
     }else{
         var num = Math.floor(Math.random()*2);
