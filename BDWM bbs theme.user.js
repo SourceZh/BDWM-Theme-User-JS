@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
-// @version      0.68
+// @version      0.69
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
@@ -14,8 +14,9 @@
 
     // Your code here...
     var src = [ 
-    			"/v2/uploads/logo_FLCYzX.gif", // 2017.11.11 光棍节你好光棍节再见
+    			"/v2/uploads/logo_owAUjB.gif", // 2017.12.02 又到了白色相簿的季节
     			"/v2/uploads/logo_tgfeWm.gif", // 摇晃的狐狸
+    			"/v2/uploads/logo_FLCYzX.gif", // 2017.11.11 光棍节你好光棍节再见
     			"/v2/uploads/logo_ze9hjJ.png", // 2017.10.30 万圣节女巫
     			"/v2/uploads/logo_jlem83.gif", // 2017.10.27 翻滚吧，月饼君
                 "/v2/uploads/logo_pII925.gif", // 2017.09.29 欢度国庆&中秋
