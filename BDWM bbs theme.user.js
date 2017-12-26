@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
-// @version      0.71
+// @version      0.72
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
@@ -14,6 +14,7 @@
 
     // Your code here...
     var src = [ 
+        "/v2/uploads/logo_61Fg2G.gif", // 2017.12.26 元旦到，灯笼照
     	"/v2/uploads/logo_PHPMZD.gif", // 2017.12.23 禁忌的圣诞帽
     	"/v2/uploads/logo_OaWGYT.gif", // 2017.12.08 大雪将至
     	"/v2/uploads/logo_owAUjB.gif", // 2017.12.02 又到了白色相簿的季节
