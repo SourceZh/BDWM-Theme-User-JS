@@ -14,7 +14,8 @@
 
     // Your code here...
     var src = [ 
-    	"/v2/uploads/logo_nlCZ2u.gif", // 2018.01.08 期末满分，不存在的
+    	"/v2/uploads/logo_nlCZ2u.gif", // 2018.01.08 期末满分，不存在的1
+        "/v2/uploads/logo_Je8Upq.gif", // 2018.01.08 期末满分，不存在的2
         "/v2/uploads/logo_61Fg2G.gif", // 2017.12.26 元旦到，灯笼照
     	"/v2/uploads/logo_PHPMZD.gif", // 2017.12.23 禁忌的圣诞帽
     	"/v2/uploads/logo_OaWGYT.gif", // 2017.12.08 大雪将至
