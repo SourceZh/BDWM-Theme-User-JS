@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
-// @version      0.74
+// @version      0.75
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
@@ -14,6 +14,7 @@
 
     // Your code here...
     var src = [ 
+        "/v2/uploads/logo_Y82E2w.gif", // 2018.01.10 未名湖是个海洋，我们都在里面摸鱼
     	"/v2/uploads/logo_nlCZ2u.gif", // 2018.01.08 期末满分，不存在的1
         "/v2/uploads/logo_Je8Upq.gif", // 2018.01.08 期末满分，不存在的2
         "/v2/uploads/logo_61Fg2G.gif", // 2017.12.26 元旦到，灯笼照
