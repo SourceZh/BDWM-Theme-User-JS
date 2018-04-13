@@ -15,9 +15,8 @@
     // Your code here...
     var src = [ 
         "/v2/uploads/logo_tgfeWm.gif", // 摇晃的狐狸
-        "/v2/uploads/logo_Im39T5.jpg", // 2018.04.13 120
 		"/v2/uploads/logo_bQwHl7.gif", // 2018.02.15 新年到，红包到    
-		"/v2/uploads/logo_3ZQ38P.gif", // 2018.02.12 新风车，新气象      
+		"/v2/uploads/logo_3ZQ38P.gif", // 2018.02.12 新风车，新气象    
         "/v2/uploads/logo_EqMF83.gif", // 2018.01.24 发糖
         "/v2/uploads/logo_Y82E2w.gif", // 2018.01.10 未名湖是个海洋，我们都在里面摸鱼
         "/v2/uploads/logo_nlCZ2u.gif", // 2018.01.08 期末满分，不存在的1
