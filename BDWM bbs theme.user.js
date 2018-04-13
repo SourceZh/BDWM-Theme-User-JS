@@ -15,6 +15,7 @@
     // Your code here...
     var src = [ 
         "/v2/uploads/logo_tgfeWm.gif", // 摇晃的狐狸
+        "/v2/uploads/logo_Im39T5.jpg", // 2018.04.13 120
 		"/v2/uploads/logo_bQwHl7.gif", // 2018.02.15 新年到，红包到    
 		"/v2/uploads/logo_3ZQ38P.gif", // 2018.02.12 新风车，新气象    
         "/v2/uploads/logo_EqMF83.gif", // 2018.01.24 发糖
