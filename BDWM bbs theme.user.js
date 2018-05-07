@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
-// @version      0.80
+// @version      0.81
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
@@ -14,7 +14,8 @@
 
     // Your code here...
     var src = [
-    	"/v2/uploads/logo_MnOp9H.gif", // 2018.04014 120 moving
+    	"/v2/uploads/logo_4DQBX1.jpg", // 2018.05.06 给校长打Call
+    	"/v2/uploads/logo_MnOp9H.gif", // 2018.04.14 120 moving
     	"/v2/uploads/logo_Im39T5.jpg", // 2018.04.13 120
 		"/v2/uploads/logo_bQwHl7.gif", // 2018.02.15 新年到，红包到    
 		"/v2/uploads/logo_3ZQ38P.gif", // 2018.02.12 新风车，新气象    
