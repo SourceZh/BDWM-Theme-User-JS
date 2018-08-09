@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
-// @version      0.85
+// @version      0.86
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
@@ -14,6 +14,7 @@
 
     // Your code here...
     var src = [
+		"/v2/uploads/logo_hZwsG2.jpg", // 2018.08.09 肥宅快乐月
         "/v2/uploads/logo_aY3JVL.jpg", // 2018.07.24 大雨，北京
     	"/v2/uploads/logo_wS9hvo.gif", // 2018.06.16 世界杯开始啦~
     	"/v2/uploads/logo_owYLKl.gif", // 2018.05.18 纸飞机
@@ -23,7 +24,7 @@
     	"/v2/uploads/logo_Im39T5.jpg", // 2018.04.13 120
 		"/v2/uploads/logo_bQwHl7.gif", // 2018.02.15 新年到，红包到    
 		"/v2/uploads/logo_3ZQ38P.gif", // 2018.02.12 新风车，新气象    
-        "/v2/uploads/logo_EqMF83.gif". // 2018.01.25 发糖
+        "/v2/uploads/logo_EqMF83.gif", // 2018.01.25 发糖
         "/v2/uploads/logo_Y82E2w.gif", // 2018.01.10 未名湖是个海洋，我们都在里面摸鱼
     	"/v2/uploads/logo_nlCZ2u.gif", // 2018.01.08 期末满分，不存在的1
         "/v2/uploads/logo_Je8Upq.gif", // 2018.01.08 期末满分，不存在的2
