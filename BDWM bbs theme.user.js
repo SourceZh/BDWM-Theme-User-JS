@@ -14,6 +14,7 @@
 
 	// Your code here...
 	var src = [
+		"/v2/uploads/logo_P7HrOc.gif", // 2020.12.35 欢度双旦
 		"/v2/uploads/logo_A7D5EW.jpg", // 2020.06.22 2020毕业快乐
 		"/v2/uploads/logo_72M3dR.gif", // 2019.10.28 未名金秋
 		"/v2/uploads/logo_kn3aSW.jpg", // 2019.04.11 看，星球！
