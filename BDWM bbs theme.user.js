@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BDWM bbs theme
 // @namespace    https://github.com/SourceZh/BDWM-Theme-User-JS/
-// @version      0.94
+// @version      0.95
 // @description  A simple script for BDWM bbs website theme.
 // @author       DoubleZ
 // @match        https://bbs.pku.edu.cn/*
@@ -15,6 +15,7 @@
 	// Your code here...
 	var src = [
 		"/v2/uploads/logo_tgfeWm.gif", // 摇晃的狐狸
+		"/v2/uploads/logo_OLpRft.gif", // 2021.03.24 花开未名
 		"/v2/uploads/logo_5XlENc.gif", // 2021.01.06 期末满分
 		"/v2/uploads/logo_P7HrOc.gif", // 2020.12.35 欢度双旦
 		"/v2/uploads/logo_A7D5EW.jpg", // 2020.06.22 2020毕业快乐
