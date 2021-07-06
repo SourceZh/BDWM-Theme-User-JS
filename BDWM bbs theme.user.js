@@ -14,6 +14,7 @@
 
 	// Your code here...
 	var src = [
+		"/v2/uploads/logo_Mvcuun.gif", // 2021.07.06 来根雪糕
 		"/v2/uploads/logo_scuIMw.gif", // 2021.06.18 格局打开
 		"/v2/uploads/logo_JJTvix.gif", // 2021.05.31 ?位证
 		"/v2/uploads/logo_9GSvWO.png", // 2021.04.01 北大有名
