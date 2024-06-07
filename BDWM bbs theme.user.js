@@ -14,6 +14,7 @@
 
 	// Your code here...
 	var src = [
+		"/v2/uploads/logo_V0uDb1.gif", // 2024.06.07 纸飞机2
 		"/v2/uploads/logo_ArQ00U.gif", // 2021.09.13 秋天来啦
 		"/v2/uploads/logo_42sHEw.gif", // 2021.07.11 下大雨啦
 		"/v2/uploads/logo_Mvcuun.gif", // 2021.07.06 来根雪糕
